@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Look Webroot'
+project = 'System Mechanic IOLO Live'
 copyright = '2025'
-author = 'Leigh Behnke'
+author = 'Ginny Rorby'
 
 release = '1.0'
 
@@ -21,4 +21,3 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
-
