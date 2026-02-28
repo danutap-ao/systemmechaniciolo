@@ -6,7 +6,7 @@ If you are wondering how to get **system mechanic download bought already**, thi
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+       <a href="https://iolodesk.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
    </div>
 
 Steps to Access Your Account Dashboard
@@ -50,3 +50,4 @@ Conclusion
 ----------
 
 Accessing the **system mechanic download bought already** option from your account dashboard ensures you can reinstall and reactivate your software whenever needed. By using your registered iolo account, you stay secure and up to date with the latest version of System Mechanic.  
+
